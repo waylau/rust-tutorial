@@ -1,0 +1,7 @@
+[package]
+name = "attribute_macro_demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hello_attribute_macro = { path = "./hello_attribute_macro" }

@@ -1,0 +1,6 @@
+[package]
+name = "implementing_polymorphism_using_trait_demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

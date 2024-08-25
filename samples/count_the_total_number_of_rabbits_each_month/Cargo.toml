@@ -1,0 +1,6 @@
+[package]
+name = "count_the_total_number_of_rabbits_each_month"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

@@ -1,0 +1,7 @@
+[package]
+name = "print_message_function_like_macro"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+function_like_macro = { path = "./function_like_macro" }

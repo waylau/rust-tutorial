@@ -1,0 +1,7 @@
+[package]
+name = "function_like_macro_demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hello_function_like_macro = { path = "./hello_function_like_macro" }

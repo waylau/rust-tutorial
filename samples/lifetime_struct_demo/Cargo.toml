@@ -1,0 +1,6 @@
+[package]
+name = "lifetime_struct_demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
