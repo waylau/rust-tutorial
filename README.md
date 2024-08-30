@@ -14,7 +14,7 @@
 ## Samples 示例
 
 
-* [hello-world](samples/hello-world)：Hello World
+* [hello_world](samples/hello_world)：Hello World
 * [variable_demo](samples/variable_demo)：变量与常量
 * [base_type_demo](samples/base_type_demo)：基本类型
 * [function_demo](samples/function_demo)：函数
